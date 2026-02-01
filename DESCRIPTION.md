@@ -4,7 +4,7 @@ A simple and interactive To-Do List web application built using HTML, CSS, and J
 
 ## Features
 - **Add Tasks:** Input and save new tasks with instant feedback.
-- **Delete Tasks:** Remove existing tasks with confirmation messages.
+- **Delete Tasks:** Remove existing tasks with confirmation messages. 
 - **Display Tasks:** View all tasks in a numbered list.
 - **Stylish Design:** Features a modern UI with a blurred background, hover effe=cts, and the Poppins font
 - **Responsive:** Clean and centered layout for better usability.
