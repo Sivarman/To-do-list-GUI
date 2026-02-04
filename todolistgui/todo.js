@@ -6,7 +6,7 @@ let deltask = document.getElementById("deltsk");
 let op = document.getElementById("msg");
 let displaybutton = document.getElementById("disp"); 
 addbutton.addEventListener("click",function(e){
-    e.preventDefault();
+    e.preventDefault(); 
     
     let utask = task.value.trim();
     if(utask!== ""){
@@ -39,4 +39,5 @@ displaybutton.addEventListener("click", function(e) {
         op.innerHTML += `${index + 1}. ${item}<br>`;
     });
 });
+
 
