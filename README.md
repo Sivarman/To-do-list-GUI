@@ -1,5 +1,5 @@
 # 📝 To-Do List Web App
-
+ 
 This is a simple, stylish To-Do List web application built using **HTML**, **CSS**, and **JavaScript**. It allows users to **add**, **delete**, and **display** tasks dynamically with real-time feedback.
 
 ---
